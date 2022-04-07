@@ -13,6 +13,7 @@
     "@tailwindcss/forms": "^0.5.0",
     "init": "^0.1.2",
     "next": "12.1.0",
+    "node-fetch": "^3.2.3",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "swr": "^1.2.2",
